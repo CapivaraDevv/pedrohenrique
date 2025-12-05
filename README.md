@@ -22,8 +22,8 @@ Trabalho com: **JavaScript | Vue.js | React.js | C# | HTML | CSS | Git**
 
 ## 📂 Projetos em destaque  
 - **EcoSol** — Plataforma de compartilhamento de energia solar, com dashboard, login, integração full-stack, consumo por endereço, upload PDF. ⚡  
-- **[Outro projeto aí]** — breve descrição, stack, link do repo  
-- **[Outro projeto aí]** — breve descrição, stack, link do repo  
+- **Brewly** — Plataforma de venda de café, com cards de produtos, sistemas de vendas.  
+- **Arcane-Stats** — Plataforma de análise de desempenho e estratégica para equipes de e-sports  
 
 ---
 
